@@ -1,0 +1,72 @@
+body{
+
+			font-family: 'Open Sans', sans-serif;
+		}	
+	
+
+		#delrightlogo{
+			height: 50px;
+			width: 150px;
+
+		}
+
+		#profileform{
+
+			margin-top: 100px;
+		}
+
+		
+
+
+		.borrowcontainer{
+			margin-top: 190px;
+			width: 500px;
+			
+
+		}
+
+		.registercontainer{
+
+		text-align: center;
+		width: 400px;
+		margin-top: 190px;
+		}
+
+		.returncontainer{
+
+			margin-top: 100px;
+			width: 500px;
+		}
+
+		#equipsearch{
+
+			margin-top: 100px;
+			
+		}
+
+		#fontwhite span{
+
+			color: white;
+		}
+
+		#loginForm{
+
+			display: none;
+		}
+
+		.toggleForms{
+
+			font-weight: bold;
+		}
+
+		.genbarcontainer{
+
+			margin-top: 190px;
+			width: 500px;
+		}
+		.content{
+			width: 400px;
+			margin-top: 100px;
+		}
+
+

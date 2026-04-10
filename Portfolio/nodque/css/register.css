@@ -1,0 +1,30 @@
+.registercontainer{
+
+	text-align: center;
+	width: 400px;
+	margin-top: 190px;
+}
+
+/*html{
+
+	background: url(../img/bgtronics.jpg) no-repeat center center fixed;
+	
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}*/
+
+
+
+
+
+#loginForm{
+
+	display: none;
+}
+
+.toggleForms{
+
+	font-weight: bold;
+}

@@ -1,0 +1,349 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+legend {
+    
+    color: #fff;
+    padding: 3px 6px;
+    
+}
+fieldset{
+    border: 1px solid black;
+    width: 500px;    
+}
+.index-container{
+    margin-top: -1px;
+}
+#addEmp{
+    padding-left: 150px;
+}
+
+.field-style{
+    
+    text-align: center;
+}
+.add-students-form-content{
+    margin-left: 80px;
+}
+.mycontainer{
+    margin-left: 0px;
+    padding-left: 0px;
+}
+.pins{
+    display: block;
+    height: 30px;
+    padding-top: 8px;
+}
+body{  
+    margin:0;  
+    padding:0;  
+    background-color:#f4f4f4;  
+    font-family: 'Open Sans', sans-serif;
+}   
+#fratefield{
+    
+}
+
+#buttoncompute{
+ 
+}
+.mycompute{
+    padding-left: 50px;
+}
+#firstRow{
+
+}
+
+
+.box{  
+    width: auto;
+    padding: 0 5px 0 5px;  
+    background-color:#fff;  
+    /*border:1px solid #ccc;*/
+    border-radius:5px;  
+    margin-top:0;  
+}
+.cpanel{
+    width: 100px;
+    padding:0;  
+    background-color:#f4f4f4;  
+    border:1px solid #ccc;  
+    border-radius:5px;  
+    margin-top:0; 
+    height: 1000%;
+    box-sizing: border-box;
+    margin-left: 0;
+}
+.cpanel-wrapper{
+    height: 1000px;
+    padding: 0px;
+}
+.data-view{
+    width: 500px;
+    padding:0;  
+    background-color:#f4f4f4;  
+    border:1px solid #ccc;  
+    border-radius:5px;  
+    margin-top:0; 
+    height: 1000%;
+    box-sizing: border-box;
+    margin-left: 0;
+}
+#mytable {
+    text-align: center;
+    vertical-align: middle;
+    font-size: 1.5em;
+}
+
+
+
+.mid{
+   display: table;
+   margin: auto;
+}
+.h3, h3{
+    font-size: 1em !important;
+}
+td{
+    font-size: 14px;
+}
+th{
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.account-category{
+    background-color: gray;
+    font-size: 20px;
+   margin-bottom: 0;
+}
+#table-driver{
+    border: 1px solid black;
+   
+}
+#table-helper{
+    border: 1px solid black;
+
+}
+.custom-table{
+    margin-bottom: 0;
+}
+.label-info{
+    margin-bottom: 0;
+}
+#acctlogo{
+    height: 100px;
+    width: 200px;
+    padding-left: 55px;
+    margin-left: 50px;
+    display: block;
+}   
+#addbookingheader{
+    width: 300px;
+    
+     float: none;
+        margin: 0 auto;
+}
+label{
+    margin-bottom: 0;
+    
+}
+#toolbar{
+    margin-top: -14px;
+}
+#sidepanel{
+    width: 180px;
+
+}
+#sidepanel-container{
+    float: left;
+    border: 1px solid black;
+    background-color:#fff;  
+    border:1px solid #ccc;  
+    border-radius:5px;
+   padding: 0;
+   margin-top: -59px;
+   background-color: #e62d06;
+}
+#sidepanel-body{
+     float: left;
+    border: 1px solid black;
+    background-color:#fff;  
+    border:1px solid #ccc;  
+    border-radius:5px;
+
+}
+.my-badge{
+    width: 100%;
+    border-radius: 0 !important;
+    height: 40px;
+   padding-top: 13px;
+}
+#sidepanel-menu{
+    margin-top: 16px;
+    text-align: center;
+    color: white;
+}
+#sidepanel-menu-customer{
+      margin-top: 65px;
+    text-align: center;
+    color: white;
+}
+.myalert{
+    margin-bottom: 0;
+    margin-left: 10px;
+}
+#customeraddbox{
+    width: 400px;
+}
+.container-gap{
+    margin-left: 180px;
+}
+.index-search{
+    margin-top: 10px;
+
+}
+#addtrucklink{
+    padding-top: 15px;
+    padding-left: 255px;
+}
+#truckhomelink{
+    padding-top: 12px;
+    padding-left: 120px;
+}
+
+/* Just added */
+
+        *{
+            margin: 0;
+            padding: 0;
+        }
+    
+        body{
+
+            font-family: 'Open Sans', sans-serif;
+        
+        }
+
+    
+        #ht-content{
+            float: right;
+        }
+        .main-head{
+            margin:0;
+        }
+
+        .add-students-form-content{
+         margin-left: 80px;
+        }
+    
+
+        #hralogo{
+            height: 50px;
+            width: 50px;
+
+        }
+
+        #profileform{
+
+            margin-top: 100px;
+        }
+        #header-content{
+            margin-left: 0px;
+            width: 100%;
+        }
+        .mid{
+            
+            vertical-align: middle;
+
+        }
+        #mid-id-content{
+            float: right;
+            padding-top: 10px;
+        }   
+
+
+        .borrowcontainer{
+            margin-top: 190px;
+            width: 500px;
+            
+
+        }
+        
+
+        .registercontainer{
+
+        text-align: center;
+        width: 400px;
+        margin-top: 190px;
+        }
+
+        .returncontainer{
+
+            margin-top: 100px;
+            width: 500px;
+        }
+
+        #equipsearch{
+
+            margin-top: 100px;
+            
+        }
+
+        #fontwhite span{
+
+            color: white;
+        }
+
+        #loginForm{
+
+            display: none;
+        }
+
+        .toggleForms{
+
+            font-weight: bold;
+        }
+
+        .genbarcontainer{
+
+            margin-top: 190px;
+            width: 500px;
+        }
+        .content{
+            width: 400px;
+            margin-top: 100px;
+        }
+        #sidebar{
+            float: left;
+            width: 215px;
+            border: 1px solid black;
+            
+        }
+        #sidebar-title{
+
+
+        }
+
+        #sidebar-content-title{
+            
+            margin-top: 5px;
+            
+            height: 30px;
+        }
+        #sidebar-content-body{
+            
+            margin-top: 5px;
+        }
+        #update-content{
+
+            width: 400px;
+        }
+        #update-form{
+            width: 500px;
+        }
+
+
+
